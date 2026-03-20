@@ -6,7 +6,7 @@ A collection of digital forensics reports, log analysis scripts, and SIEM invest
 
 ### 1. Digital Forensics (`01_digital_forensics`)
 - **Case Study:** UNCC Theft Case (USB Forensic Examination).
-- **Tools Used:** FTK Imager, Autopsy, OSFMount, Recuva.
+- **Tools Used:** FTK Imager, Autopsy, Arsenal, OSFMount, Recuva.
 - **Skills:** Evidence preservation, hash validation (MD5/SHA1), file carving, and metadata extraction.
 - **Automation:** Python script for automated evidence integrity verification.
 

@@ -23,4 +23,4 @@ A collection of digital forensics reports, log analysis scripts, and SIEM invest
 ## Technical Skills Demonstrated
 - **Forensics:** Bit-for-bit imaging, unallocated space analysis, EXIF metadata recovery.
 - **Defense:** SIEM dashboarding, log-based alerting, and access control auditing.
-- **Programming:** Python for security automation and data processing.# Cybersecurity-Labs
+- **Programming:** Python for security automation and data processing.

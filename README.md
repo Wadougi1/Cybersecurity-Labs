@@ -4,18 +4,18 @@ A collection of digital forensics reports, log analysis scripts, and SIEM invest
 
 ## Repository Modules
 
-### 1. Digital Forensics (`01_digital_forensics`)
+### 1. Digital Forensics
 - **Case Study:** UNCC Theft Case (USB Forensic Examination).
 - **Tools Used:** FTK Imager, Autopsy, Arsenal, OSFMount, Recuva.
 - **Skills:** Evidence preservation, hash validation (MD5/SHA1), file carving, and metadata extraction.
 - **Automation:** Python script for automated evidence integrity verification.
 
-### 2. Log Analysis (`02_log_analysis`)
+### 2. Log Analysis
 - **Project:** Cross-Departmental Access Detection.
 - **Tools Used:** Python (Pandas).
 - **Skills:** Data normalization, log parsing, and anomaly detection for insider threat monitoring.
 
-### 3. SIEM Investigations (`03_siem_investigations`)
+### 3. SIEM Investigations
 - **Project:** SSL Log Analysis via Elastic Stack.
 - **Tools Used:** Kibana, Elasticsearch.
 - **Skills:** Threat hunting, log visualization, and identifying suspicious issuer patterns in network traffic.

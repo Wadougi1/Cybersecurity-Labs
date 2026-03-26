@@ -64,7 +64,7 @@ The enriched logs were successfully ingested into Elastic SIEM. The **Data Visua
 The custom ETL script processes the raw logs, performs ASN lookups, and generates a summary of the enriched dataset.
 
 <p align="center">
-  <img src="screenshots/netflow-output.png" width="700" alt="Python Script Execution Output">
+  <img src="screenshots/netflow-script-output.png" width="700" alt="Python Script Execution Output">
   <br><i>Figure 6: Terminal output showing successful enrichment of 42,765 records</i>
 </p>
 

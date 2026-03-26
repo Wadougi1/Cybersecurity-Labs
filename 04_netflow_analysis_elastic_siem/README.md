@@ -25,8 +25,8 @@ The raw netflow logs were processed through a custom Python ETL pipeline (`enric
 
 ### 1. Data Exfiltration Analysis (Outbound Volume)
 Analysis revealed several internal hosts with significant outbound data transfers to unclassified external IPs.
-- **Top Suspect:** `10.0.1.63` uploaded **~27.61 MB** to an unclassified destination.
-- **Secondary Suspect:** `192.168.0.50` uploaded **~18.41 MB**.
+- **Top Suspect:** `10.0.1.63` uploaded **28.95MB** to an unclassified destination.
+- **Secondary Suspect:** `192.168.0.50` uploaded **19.31MB**.
 
 <p align="center">
   <img src="screenshots/outbound-traffic-pie-chart.png" width="600" alt="Outbound Traffic Distribution">
